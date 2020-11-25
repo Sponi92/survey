@@ -1,0 +1,67 @@
+body {
+  background-image:url(https://meerdavon.com/wp-content/uploads/2017/07/surfing-2192675_1920-klein-1170x649.jpg);
+  width:auto;
+  height:auto;
+  background-repeat:no-repeat;
+  background-position:center;
+  background-attachment:fixed;
+ 
+  align:center;
+    background-color: gray;
+    border-radius:10px;
+}
+
+#title {
+  text-align:center;
+}
+#description {
+  text-align:center;
+  font-style:italic;
+}
+#survey-form{
+  margin:auto;
+  border: 2px;
+  background-color:gray;
+  opacity:0.8;
+  width:50%;
+  border-radius:10px;
+}
+.form-group{
+  display:grid;
+ text-align:center;
+  width:80%;
+  margin:auto;
+  margin-top:20px;
+}
+.label{
+   display:grid;
+  width:100%;
+  margin:auto;
+  text-align:left;
+  margin-bottom:5px;
+  font-family:sans-serif;
+
+}
+.label1{
+  display:block;
+  text-align:center;
+}
+  .form-group1{
+    display:block;
+    text-align:center;
+}
+.radio{
+  display:block;
+}
+.legend{
+  margin: 0 auto;
+}
+#submit{
+  display:block;
+  margin:auto;
+}
+#textarea{
+  display:block;
+  margin:auto;
+}
+
